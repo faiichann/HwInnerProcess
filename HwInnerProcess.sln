@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HwInnerProcess", "HwInnerProcess\HwInnerProcess.csproj", "{52AF42D8-9F3E-46A3-BAAE-143F03844F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AF42D8-9F3E-46A3-BAAE-143F03844F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AF42D8-9F3E-46A3-BAAE-143F03844F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AF42D8-9F3E-46A3-BAAE-143F03844F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AF42D8-9F3E-46A3-BAAE-143F03844F03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6727AA4E-CF53-4875-83D5-2B1E06677EA6}
+	EndGlobalSection
+EndGlobal
